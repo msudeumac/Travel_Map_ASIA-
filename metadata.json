@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Living Memory Maps – Asia Edition",
+  "description": "A map-centric social platform for visual storytelling across Asia, featuring photo pinning by EXIF data, travel atlases, and location clusters.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
